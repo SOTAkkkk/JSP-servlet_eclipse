@@ -19,7 +19,7 @@ public class SampleServlet extends HttpServlet {
 		PrintWriter out = response.getWriter();
 		out.println("<html>");
 		out.println("...");
-		out.println("</html>");
+		out.println("</html>");//コメント
 	}
 
 }
